@@ -1,2 +1,2 @@
 # Ejercicios.Extra-POO
-Ejercicios de practicas Extra 
+Ejercicios de practicas opcionales de POO 
